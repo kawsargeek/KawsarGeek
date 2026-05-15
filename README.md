@@ -16,7 +16,7 @@ I help founders and projects turn inactive or unstructured communities into acti
   <a href="https://discordapp.com/users/383283211637358602" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Kawsargeek-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://discord.gg/KJXssNdpsJ" target="_blank">
+  <a href="https://discord.gg/KXssNdpsJ" target="_blank">
     <img src="https://img.shields.io/badge/Discord_Server-Join_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://t.me/Kawsargeek" target="_blank">
