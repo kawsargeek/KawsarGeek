@@ -41,20 +41,19 @@ My work focuses on community structure, moderation systems, engagement loops, on
 
 ## 🚀 What I Deliver
 
-• Full Discord server architecture  
-• Channel, role, and permission setup  
-• Advanced bot setup and automation  
-• Moderation, leveling, logging, and onboarding systems  
+• Full Discord server architecture   
+• Advanced bot setup and automation (Moderation, leveling, logging, and onboarding systems)  
 • Community engagement systems  
 • Events, giveaways, contests, and gamification  
 • Daily moderation and member support  
 • X engagement strategy and growth support  
 • Telegram community management  
 • Cross-platform community alignment  
-• Anti-raid and anti-spam security setup  
 • AI-assisted community optimization  
+• All Social Media Management
 • Facebook Ads and X Ads support  
 • Web analytics and growth tracking  
+• AI Agentic Workflow
 
 ---
 
